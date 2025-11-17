@@ -32,8 +32,13 @@ Personas Page or Final Action Page
 – intuitive form fields
 – clear headings
 ## Output:
-<img width="932" height="836" alt="image" src="https://github.com/user-attachments/assets/75b5affe-72f0-42ef-aa70-0937312fce32" />
-<img width="951" height="699" alt="image" src="https://github.com/user-attachments/assets/b3aed1d8-d6aa-46fd-a751-223e1f100247" />
+<img width="930" height="713" alt="image" src="https://github.com/user-attachments/assets/46eaf7c9-dfe0-43c2-8e43-41f4b0ddb0a7" />
+<img width="935" height="866" alt="image" src="https://github.com/user-attachments/assets/002f39bc-d2be-4d63-a99c-f46e106ee336" />
+
+<img width="922" height="779" alt="image" src="https://github.com/user-attachments/assets/e224f052-a1ca-40f5-9019-b81bf87f4da7" />
+<img width="927" height="648" alt="image" src="https://github.com/user-attachments/assets/e9b68e3d-67e7-4632-84e9-14ba426d5b11" />
+
+<img width="919" height="857" alt="image" src="https://github.com/user-attachments/assets/7316e6db-cead-41b1-993b-63a8f6e6036f" />
 
 ## Result:
 The wireframe structure for an E-Commerce UX Research Platform was successfully designed, including the Welcome Page and Login Page. The user flow, layout hierarchy, and essential UX elements were clearly represented, demonstrating an effective and user-friendly interface ready for further UI development.
